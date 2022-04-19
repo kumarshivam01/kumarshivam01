@@ -1,8 +1,9 @@
-
+[![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)]
 <h1 align="center">Hi 👋, I'm Kumar Shivam</h1>
 
-<img align="center"  src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="">
+
 <h3 align="center">Aspiring Full Stack Web Developer , Learning MERN Stack at Masai School</h3>
+<img align="right" width="400"  src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarshivam01&label=Profile%20views&color=0e75b6&style=flat" alt="kumarshivam01" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@kumarsh03489515" target="blank"><img src="https://img.shields.io/twitter/follow/@kumarsh03489515?logo=twitter&style=for-the-badge" alt="@kumarsh03489515" /></a> </p>
